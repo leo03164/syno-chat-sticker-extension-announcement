@@ -1,2 +1,4 @@
-Hello everybody this is Leo
-This is a test announcement for extension
+新增代理程式提交工作流程定義 8fe3df7
+新增更新公告功能，包含模態框、內容雜湊比對與儲存。 3f9f79b
+新增更新公告視窗與版本檢查機制 65a98e8
+add new commit workflow a877cb9
