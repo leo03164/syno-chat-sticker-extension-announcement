@@ -1,0 +1,1 @@
+# syno-chat-sticker-extension-announcement
