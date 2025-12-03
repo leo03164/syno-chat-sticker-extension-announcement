@@ -1,1 +1,3 @@
-Hello World
+# Features
+Add GitHub Actions workflow for Chrome Web Store publishing and configure release-it for conventional changelog. e66c16b
+Add GitHub Actions workflow to automate publishing the extension to the Chrome Web Store. 22c78fd
