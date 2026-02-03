@@ -1,4 +1,15 @@
-新增代理程式提交工作流程定義 8fe3df7
-新增更新公告功能，包含模態框、內容雜湊比對與儲存。 3f9f79b
-新增更新公告視窗與版本檢查機制 65a98e8
-add new commit workflow a877cb9
+Bug Fixes
+sticker: 修正貼圖送出時序問題 a03bc0f
+
+Features
+cache: 實作 getImgObjURL Request Deduplication (H-001, H-002) c548098
+eslint format f379971
+memory: 實作 Object URL 記憶體管理 (H-007, H-008, H-009) 7c9daa8
+optimize css selector b3b8c82
+perf: 使用 MutationObserver 替代 setInterval Polling (H-004, H-005, H-006) 2e9689a
+remove depdency by ai 1780aaa
+remove seriesList logic 4be2080
+remove unused code 8a1a2e7
+use weakmap to optimize memory control 30f80e5
+優化載入速度並且統一邏輯 11789ea
+實作聊天室貼圖顯示功能，包含解析、渲染與圖片物件 URL 快取。 10b283c
